@@ -12,15 +12,15 @@ Analyze customer reviews for restaurants and determine the sentiment expressed i
 
 The project leverages Natural Language Processing (NLP) and machine learning algorithms to perform sentiment analysis. Key steps include:
 
-Data Collection: Reviews are collected from various sources and pre-processed for analysis.
+1.Data Collection: Reviews are collected from various sources and pre-processed for analysis.
 
-Data Preprocessing: Cleaning the text data by removing noise such as stopwords, punctuation, and performing tokenization and lemmatization.
+2.Data Preprocessing: Cleaning the text data by removing noise such as stopwords, punctuation, and performing tokenization and lemmatization.
 
-Model Building: Implementing machine learning models like Logistic Regression, Naive Bayes, and Support Vector Machines (SVM) using scikit-learn.
+3.Model Building: Implementing machine learning models like Logistic Regression, Naive Bayes, and Support Vector Machines (SVM) using scikit-learn.
 
-Model Evaluation: Evaluating the models based on accuracy, precision, recall, and F1-score.
+4.Model Evaluation: Evaluating the models based on accuracy, precision, recall, and F1-score.
 
-Deployment: (If applicable) Deploying the model using a simple web interface (HTML, CSS) for users to input reviews and get sentiment predictions.
+5.Deployment: (If applicable) Deploying the model using a simple web interface (HTML, CSS) for users to input reviews and get sentiment predictions.
 
 **Technologies Used**
 
