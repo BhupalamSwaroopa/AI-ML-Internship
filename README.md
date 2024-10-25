@@ -1,4 +1,4 @@
-**Internship Project - APSSDC AI & ML Internship**
+# Internship Project - APSSDC AI & ML Internship
 
   **Overview**
   
