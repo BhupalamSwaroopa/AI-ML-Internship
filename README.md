@@ -25,7 +25,11 @@ Deployment: (If applicable) Deploying the model using a simple web interface (HT
 **Technologies Used**
 
 Programming Language: Python
+
 Libraries: pandas, NumPy, scikit-learn, nltk (Natural Language Toolkit)
+
 NLP Techniques: Tokenization, Lemmatization, Stopword Removal, TF-IDF Vectorization
+
 Machine Learning Models: Logistic Regression, Naive Bayes, SVM
+
 Version Control: Git
